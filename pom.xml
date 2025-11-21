@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://18.119.117.13:8081/repository/firstsonar/</url>
+		    <url>http://3.149.250.147:8081/repository/firstnexus/</url>
 		</repository>
   	</distributionManagement>
 	
